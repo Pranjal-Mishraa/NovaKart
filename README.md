@@ -1,6 +1,6 @@
-# E-Commerce Service
+# NovaKart
 
-The **E-Commerce Service** is a Kafka-enabled microservice built using **Java 17** and **Micronaut 4.7.1**. It facilitates the creation, processing, and validation of orders and payments within an e-commerce system. With a robust architecture, the project integrates Kafka for asynchronous communication and provides reliable failure handling mechanisms such as Dead Letter Queues (DLQ).
+The **NovaKart** is a Kafka-enabled microservice built using **Java 17** and **Micronaut 4.7.1**. It facilitates the creation, processing, and validation of orders and payments within an e-commerce system. With a robust architecture, the project integrates Kafka for asynchronous communication and provides reliable failure handling mechanisms such as Dead Letter Queues (DLQ).
 
 ---
 
@@ -16,7 +16,7 @@ The **E-Commerce Service** is a Kafka-enabled microservice built using **Java 17
 ### 1. Clone the Repository
 
 ```bash
-git clone git@git.target.com:Z00FB39/ecom-use-case.git
+https://github.com/Pranjal-Mishraa/NovaKart.git
 ```
 
 ---
